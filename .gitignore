@@ -15,3 +15,5 @@ doc/*.txt
 
 # ignore all .pdf files in the doc/ directory
 doc/**/*.pdf
+
+1.txt
